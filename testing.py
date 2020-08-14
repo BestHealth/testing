@@ -1,5 +1,6 @@
 # !/usr/bin/python
 # -*-coding:utf-8 -*-
 
-print('testing')
+print('这是一个testing流水线项目，归testing所管理！')
+
 
